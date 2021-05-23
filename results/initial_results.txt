@@ -1,3 +1,4 @@
+Against 2 CPU / 4 GB Ram CPU Optimised DO Droplet
 ================ 150 / sec ======================
 DNSCRYPT - dnsperf -s 192.168.3.10 -p 5353 -d clean_test_data_dnsperf.txt -l 600 -c 32 -Q 75
 Statistics:
