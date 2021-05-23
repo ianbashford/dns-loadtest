@@ -1,0 +1,10 @@
+google.com A
+facebook.com A
+amazon.com A
+youtube.com A
+wikipedia.com A
+yelp.com A
+giphy.com A
+twitter.com A
+fandom.com A
+dailymail.co.uk A

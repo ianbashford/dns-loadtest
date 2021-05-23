@@ -1,0 +1,574 @@
+lookup www.Quantcast on 192.168.3.21:53: no such host
+lookup www.Rankings on 192.168.3.21:53: no such host
+lookup www.Copyright on 192.168.3.21:53: no such host
+lookup www.This on 192.168.3.21:53: no such host
+lookup www. on 192.168.3.21:53: no such host
+lookup www.Site on 192.168.3.21:53: no such host
+lookup www.frtyk.com on 192.168.3.21:53: no such host
+lookup www.dartsearch.net on 192.168.3.21:53: no such host
+lookup www.aarki.net on 192.168.3.21:53: no such host
+lookup www.kym-cdn.com on 192.168.3.21:53: no such host
+lookup www.discordapp.net on 192.168.3.21:53: no such host
+lookup www.dtvce.com on 192.168.3.21:53: no such host
+lookup www.live.net on 192.168.3.21:53: no such host
+lookup www.osd.mil on 192.168.3.21:53: no such host
+lookup www.office.net on 192.168.3.21:53: no such host
+lookup www.edwardjones.com on 192.168.3.21:53: read udp 192.168.3.160:49975->192.168.3.10:5353: i/o timeout
+lookup www.paypal-communication.com on 192.168.3.21:53: no such host
+lookup www.network-auth.com on 192.168.3.21:53: no such host
+lookup www.hud.gov on 192.168.3.21:53: read udp 192.168.3.160:47458->192.168.3.10:5353: i/o timeout
+lookup www.exdynsrv.com on 192.168.3.21:53: no such host
+lookup www.thehuntingnews.com on 192.168.3.21:53: read udp 192.168.3.160:34918->192.168.3.10:5353: i/o timeout
+lookup www.media-amazon.com on 192.168.3.21:53: no such host
+lookup www.hulumail.com on 192.168.3.21:53: no such host
+lookup www.ehr.com on 192.168.3.21:53: no such host
+lookup www.c-ij.com on 192.168.3.21:53: no such host
+lookup www.etsystatic.com on 192.168.3.21:53: no such host
+lookup www.odyssys.net on 192.168.3.21:53: no such host
+lookup www.startappservice.com on 192.168.3.21:53: no such host
+lookup www.yelpcdn.com on 192.168.3.21:53: no such host
+lookup www.att-mail.com on 192.168.3.21:53: no such host
+lookup www.promocodewatch.com on 192.168.3.21:53: no such host
+lookup www.pgsurveying.com on 192.168.3.21:53: no such host
+lookup www.dabbler.com on 192.168.3.21:53: server misbehaving
+lookup www.dropboxusercontent.com on 192.168.3.21:53: no such host
+lookup www.staticflickr.com on 192.168.3.21:53: no such host
+lookup www.ogtrk.net on 192.168.3.21:53: no such host
+lookup www.nintendo.net on 192.168.3.21:53: no such host
+lookup www.formovietickets.com on 192.168.3.21:53: no such host
+lookup www.ciggws.net on 192.168.3.21:53: no such host
+lookup www.alberta.ca on 192.168.3.21:53: read udp 192.168.3.160:40831->192.168.3.10:5353: i/o timeout
+lookup www.akamaized.net on 192.168.3.21:53: no such host
+lookup www.torrentz2.eu on 192.168.3.21:53: no such host
+lookup www.kohlsimg.com on 192.168.3.21:53: no such host
+lookup www.onlineebillcenter.com on 192.168.3.21:53: read udp 192.168.3.160:57963->192.168.3.10:5353: i/o timeout
+lookup www.magik.ly on 192.168.3.21:53: no such host
+lookup www.ebanking-services.com on 192.168.3.21:53: no such host
+lookup www.safemls.net on 192.168.3.21:53: no such host
+lookup www.wixstatic.com on 192.168.3.21:53: no such host
+lookup www.harpersbazaar.com.au on 192.168.3.21:53: no such host
+lookup www.myvirtualbranch.com on 192.168.3.21:53: no such host
+lookup www.hotmail.co on 192.168.3.21:53: no such host
+lookup www.cudasvc.com on 192.168.3.21:53: no such host
+lookup www.gunsinternational.com on 192.168.3.21:53: read udp 192.168.3.160:55755->192.168.3.10:5353: i/o timeout
+lookup www.ramseysolutions.net on 192.168.3.21:53: no such host
+lookup www.kronos.net on 192.168.3.21:53: no such host
+lookup www.fdecs.com on 192.168.3.21:53: no such host
+lookup www.lmhostediq.com on 192.168.3.21:53: no such host
+lookup www.email-libertymutual.com on 192.168.3.21:53: no such host
+lookup www.nn.im on 192.168.3.21:53: no such host
+lookup www.aglr.com on 192.168.3.21:53: no such host
+lookup www.thread.co on 192.168.3.21:53: server misbehaving
+lookup www.curiosity.com on 192.168.3.21:53: no such host
+lookup www.c-wss.com on 192.168.3.21:53: no such host
+lookup www.samsungcloud.com on 192.168.3.21:53: no such host
+lookup www.vox-cdn.com on 192.168.3.21:53: no such host
+lookup www.rbx.me on 192.168.3.21:53: no such host
+lookup www.artvan.com on 192.168.3.21:53: no such host
+lookup www.etimspayments.com on 192.168.3.21:53: no such host
+lookup www.smackjeeves.com on 192.168.3.21:53: read udp 192.168.3.160:39164->192.168.3.10:5353: i/o timeout
+lookup www.motorola-mail.com on 192.168.3.21:53: no such host
+lookup www.katcr.co on 192.168.3.21:53: server misbehaving
+lookup www.instacartemail.com on 192.168.3.21:53: no such host
+lookup www.lyftmail.com on 192.168.3.21:53: no such host
+lookup www.aol.co on 192.168.3.21:53: no such host
+lookup www.playstation.net on 192.168.3.21:53: no such host
+lookup www.com-default.ws on 192.168.3.21:53: no such host
+lookup www.medcity.net on 192.168.3.21:53: no such host
+lookup www.munisselfservice.com on 192.168.3.21:53: no such host
+lookup www.flexlinkspro.com on 192.168.3.21:53: no such host
+lookup www.public-safety-cloud.com on 192.168.3.21:53: no such host
+lookup www.email-allstate.com on 192.168.3.21:53: no such host
+lookup www.yuki.la on 192.168.3.21:53: no such host
+lookup www.communityos.org on 192.168.3.21:53: no such host
+lookup www.bonanzastatic.com on 192.168.3.21:53: no such host
+lookup www.email-lifetouch.com on 192.168.3.21:53: no such host
+lookup www.ddc-emails.com on 192.168.3.21:53: no such host
+lookup www.ypncdn.com on 192.168.3.21:53: no such host
+lookup www.advocatehealth.com on 192.168.3.21:53: read udp 192.168.3.160:52256->192.168.3.10:5353: i/o timeout
+lookup www.rdaenthusiast.com on 192.168.3.21:53: no such host
+lookup www.hrsmart.com on 192.168.3.21:53: no such host
+lookup www.mail.mil on 192.168.3.21:53: no such host
+lookup www.procoretech.com on 192.168.3.21:53: no such host
+lookup www.queue-it.net on 192.168.3.21:53: no such host
+lookup www.playstationemail.com on 192.168.3.21:53: no such host
+lookup www.mapnwea.org on 192.168.3.21:53: no such host
+lookup www.blazingmovies.com on 192.168.3.21:53: no such host
+lookup www.rbxcdn.com on 192.168.3.21:53: no such host
+lookup www.aspgov.com on 192.168.3.21:53: no such host
+lookup www.sumtotal.host on 192.168.3.21:53: no such host
+lookup www.email-totalwine.com on 192.168.3.21:53: no such host
+lookup www.wednet.edu on 192.168.3.21:53: no such host
+lookup www.publicaccessnow.com on 192.168.3.21:53: no such host
+lookup www.ns3web.org on 192.168.3.21:53: no such host
+lookup www.checkbook.org on 192.168.3.21:53: read udp 192.168.3.160:60928->192.168.3.10:5353: i/o timeout
+lookup www.stackpathdns.com on 192.168.3.21:53: no such host
+lookup www.hearstapps.com on 192.168.3.21:53: no such host
+lookup www.adglare.net on 192.168.3.21:53: no such host
+lookup www.bruceleadx2.com on 192.168.3.21:53: no such host
+lookup www.skylogin.com on 192.168.3.21:53: no such host
+lookup www.exosrv.com on 192.168.3.21:53: no such host
+lookup www.android-1.com on 192.168.3.21:53: server misbehaving
+lookup www.courseval.net on 192.168.3.21:53: no such host
+lookup www.inserts2online.com on 192.168.3.21:53: no such host
+lookup www.royalcaribbeanmarketing.com on 192.168.3.21:53: no such host
+lookup www.trafficrouter.io on 192.168.3.21:53: no such host
+lookup www.elluciancrmrecruit.com on 192.168.3.21:53: no such host
+lookup www.newscyclecloud.com on 192.168.3.21:53: no such host
+lookup www.clmbtech.com on 192.168.3.21:53: no such host
+lookup www.sendibm1.com on 192.168.3.21:53: no such host
+lookup www.aspect-cloud.net on 192.168.3.21:53: no such host
+lookup www.online-cu.com on 192.168.3.21:53: no such host
+lookup www.migrationpolicy.org on 192.168.3.21:53: read udp 192.168.3.160:39484->192.168.3.10:5353: i/o timeout
+lookup www.injury-check.com on 192.168.3.21:53: no such host
+lookup www.myvoffice.com on 192.168.3.21:53: no such host
+lookup www.zdassets.com on 192.168.3.21:53: no such host
+lookup www.stream-cr7.net on 192.168.3.21:53: no such host
+lookup www.ixt.com on 192.168.3.21:53: no such host
+lookup www.wunderlist.com on 192.168.3.21:53: no such host
+lookup www.locbox.com on 192.168.3.21:53: no such host
+lookup www.discounttire-email.com on 192.168.3.21:53: no such host
+lookup www.foodlionemail.com on 192.168.3.21:53: no such host
+lookup www.swpstrack.com on 192.168.3.21:53: no such host
+lookup www.dentresearch.com on 192.168.3.21:53: server misbehaving
+lookup www.whicdn.com on 192.168.3.21:53: no such host
+lookup www.kitchencollection.com on 192.168.3.21:53: server misbehaving
+lookup www.customervoice360.com on 192.168.3.21:53: server misbehaving
+lookup www.trvl-media.com on 192.168.3.21:53: no such host
+lookup www.1tech.net on 192.168.3.21:53: no such host
+lookup www.webrez.com on 192.168.3.21:53: no such host
+lookup www.v-cdn.net on 192.168.3.21:53: no such host
+lookup www.ugi.com on 192.168.3.21:53: read udp 192.168.3.160:58009->192.168.3.10:5353: i/o timeout
+lookup www.faptime.info on 192.168.3.21:53: no such host
+lookup www.crow.com on 192.168.3.21:53: no such host
+lookup www.prmobiles.com on 192.168.3.21:53: no such host
+lookup www.mercerbelong.com on 192.168.3.21:53: no such host
+lookup www.immedia-semi.com on 192.168.3.21:53: no such host
+lookup www.oracleoutsourcing.com on 192.168.3.21:53: no such host
+lookup www.macys.net on 192.168.3.21:53: no such host
+lookup www.businessdictionary.com on 192.168.3.21:53: server misbehaving
+lookup www.ticketmonster.com on 192.168.3.21:53: no such host
+lookup www.sodexomyway.com on 192.168.3.21:53: no such host
+lookup www.redcondor.net on 192.168.3.21:53: no such host
+lookup www.billdomain.com on 192.168.3.21:53: no such host
+lookup www.careerbuilder1.com on 192.168.3.21:53: no such host
+lookup www.adyieldoptimizer.com on 192.168.3.21:53: no such host
+lookup www.cardaccesssite.com on 192.168.3.21:53: no such host
+lookup www.estimatefares.com on 192.168.3.21:53: no such host
+lookup www.foothealthfacts.org on 192.168.3.21:53: read udp 192.168.3.160:50708->192.168.3.10:5353: i/o timeout
+lookup www.hacontent.com on 192.168.3.21:53: no such host
+lookup www.jtvnw.net on 192.168.3.21:53: no such host
+lookup www.els-cdn.com on 192.168.3.21:53: no such host
+lookup www.amsu.ng on 192.168.3.21:53: no such host
+lookup www.fapspace.info on 192.168.3.21:53: no such host
+lookup www.zamimg.com on 192.168.3.21:53: no such host
+lookup www.isbe.net on 192.168.3.21:53: read udp 192.168.3.160:32854->192.168.3.10:5353: i/o timeout
+lookup www.oncolink.org on 192.168.3.21:53: read udp 192.168.3.160:51584->192.168.3.10:5353: i/o timeout
+lookup www.emgn.com on 192.168.3.21:53: no such host
+lookup www.email-aaa.com on 192.168.3.21:53: no such host
+lookup www.experientevent.com on 192.168.3.21:53: no such host
+lookup www.plug.dj on 192.168.3.21:53: server misbehaving
+lookup www.myftpupload.com on 192.168.3.21:53: no such host
+lookup www.raxcdn.com on 192.168.3.21:53: no such host
+lookup www.attlocal.net on 192.168.3.21:53: no such host
+lookup www.papajohns-specials.com on 192.168.3.21:53: no such host
+lookup www.pm-notifications.com on 192.168.3.21:53: server misbehaving
+lookup www.xcelenergy-emailnews.com on 192.168.3.21:53: no such host
+lookup www.bncollegemail.com on 192.168.3.21:53: no such host
+lookup www.abacast.net on 192.168.3.21:53: no such host
+lookup www.sweetass.info on 192.168.3.21:53: no such host
+lookup www.hpbdirect.com on 192.168.3.21:53: no such host
+lookup www.documentprocessingcenter.com on 192.168.3.21:53: no such host
+lookup www.thepiratebay.se on 192.168.3.21:53: no such host
+lookup www.thinknearhub.com on 192.168.3.21:53: no such host
+lookup www.aviontego.com on 192.168.3.21:53: no such host
+lookup www.ramcoams.net on 192.168.3.21:53: no such host
+lookup www.magaimg.net on 192.168.3.21:53: server misbehaving
+lookup www.commissaries.com on 192.168.3.21:53: read udp 192.168.3.160:33036->192.168.3.10:5353: i/o timeout
+lookup www.ecustomersupport.com on 192.168.3.21:53: no such host
+lookup www.nordstrommedia.com on 192.168.3.21:53: no such host
+lookup www.offersfromqh.com on 192.168.3.21:53: server misbehaving
+lookup www.sfx.ms on 192.168.3.21:53: no such host
+lookup www.wifast.com on 192.168.3.21:53: no such host
+lookup www.mrooms.net on 192.168.3.21:53: no such host
+lookup www.ping-traffic.info on 192.168.3.21:53: server misbehaving
+lookup www.balao.de on 192.168.3.21:53: no such host
+lookup www.cdn13.com on 192.168.3.21:53: no such host
+lookup www.greatbigstory.com on 192.168.3.21:53: no such host
+lookup www.ifactornotifi.com on 192.168.3.21:53: no such host
+lookup www.admemes.com on 192.168.3.21:53: no such host
+lookup www.epson.net on 192.168.3.21:53: no such host
+lookup www.bcbits.com on 192.168.3.21:53: no such host
+lookup www.xvideo-z.com on 192.168.3.21:53: read udp 192.168.3.160:43345->192.168.3.10:5353: i/o timeout
+lookup www.crocs-email.com on 192.168.3.21:53: no such host
+lookup www.ht.ly on 192.168.3.21:53: no such host
+lookup www.nexcesscdn.net on 192.168.3.21:53: no such host
+lookup www.email-carmax.com on 192.168.3.21:53: no such host
+lookup www.shopifyapps.com on 192.168.3.21:53: no such host
+lookup www.franconnect.net on 192.168.3.21:53: no such host
+lookup www.jclub.com on 192.168.3.21:53: server misbehaving
+lookup www.ecn5.com on 192.168.3.21:53: server misbehaving
+lookup www.xteenchan.com on 192.168.3.21:53: no such host
+lookup www.trafficdelivery1.com on 192.168.3.21:53: server misbehaving
+lookup www.ebuildabear.com on 192.168.3.21:53: no such host
+lookup www.supercasuals.com on 192.168.3.21:53: read udp 192.168.3.160:51932->192.168.3.10:5353: i/o timeout
+lookup www.mercer-sso.com on 192.168.3.21:53: no such host
+lookup www.konami.net on 192.168.3.21:53: no such host
+lookup www.xpda.co on 192.168.3.21:53: no such host
+lookup www.aainflight.com on 192.168.3.21:53: no such host
+lookup www.withairbnb.com on 192.168.3.21:53: no such host
+lookup www.thefloorpro.com on 192.168.3.21:53: read udp 192.168.3.160:45876->192.168.3.10:5353: i/o timeout
+lookup www.mobile-redirect.com on 192.168.3.21:53: no such host
+lookup www.memecdn.com on 192.168.3.21:53: no such host
+lookup www.nlrtrk.com on 192.168.3.21:53: no such host
+lookup www.nikecdn.com on 192.168.3.21:53: no such host
+lookup www.jh.edu on 192.168.3.21:53: no such host
+lookup www.mcd.com on 192.168.3.21:53: read udp 192.168.3.160:37994->192.168.3.10:5353: i/o timeout
+lookup www.adeptra.net on 192.168.3.21:53: no such host
+lookup www.detma.org on 192.168.3.21:53: no such host
+lookup www.globalsuite.net on 192.168.3.21:53: no such host
+lookup www.phonedog.com on 192.168.3.21:53: server misbehaving
+lookup www.postimg.org on 192.168.3.21:53: no such host
+lookup www.you2repeat.com on 192.168.3.21:53: no such host
+lookup www.arstechnica.net on 192.168.3.21:53: no such host
+lookup www.sweetcollection.info on 192.168.3.21:53: no such host
+lookup www.hardwareonlinestore.com on 192.168.3.21:53: read udp 192.168.3.160:56764->192.168.3.10:5353: i/o timeout
+lookup www.nordvpn.net on 192.168.3.21:53: no such host
+lookup www.gfsstore-email.com on 192.168.3.21:53: no such host
+lookup www.mssqltips.com on 192.168.3.21:53: read udp 192.168.3.160:33156->192.168.3.10:5353: i/o timeout
+lookup www.portseattle.org on 192.168.3.21:53: read udp 192.168.3.160:45942->192.168.3.10:5353: i/o timeout
+lookup www.myatt.com on 192.168.3.21:53: no such host
+lookup www.optumhealthpaymentservices.com on 192.168.3.21:53: no such host
+lookup www.9cache.com on 192.168.3.21:53: no such host
+lookup www.greatjob.net on 192.168.3.21:53: no such host
+lookup www.top100.photo on 192.168.3.21:53: no such host
+lookup www.svwps.com on 192.168.3.21:53: no such host
+lookup www.chasecdn.com on 192.168.3.21:53: no such host
+lookup www.mcx0.net on 192.168.3.21:53: no such host
+lookup www.fsrconnect.com on 192.168.3.21:53: no such host
+lookup www.groceryoutletbargains.com on 192.168.3.21:53: no such host
+lookup www.att.ne on 192.168.3.21:53: no such host
+lookup www.familycircle.com on 192.168.3.21:53: no such host
+lookup www.w-x.co on 192.168.3.21:53: no such host
+lookup www.lake-link.com on 192.168.3.21:53: read udp 192.168.3.160:46241->192.168.3.10:5353: i/o timeout
+lookup www.maxinc.com on 192.168.3.21:53: no such host
+lookup www.play4funnetwork.com on 192.168.3.21:53: no such host
+lookup www.mbanking-services.mobi on 192.168.3.21:53: no such host
+lookup www.ngfiles.com on 192.168.3.21:53: no such host
+lookup www.navyexchg.com on 192.168.3.21:53: no such host
+lookup www.edim.co on 192.168.3.21:53: no such host
+lookup www.transaccionesbancolombia.com on 192.168.3.21:53: no such host
+lookup www.ogone.com on 192.168.3.21:53: no such host
+lookup www.brightspotcdn.com on 192.168.3.21:53: no such host
+lookup www.email-puma.com on 192.168.3.21:53: no such host
+lookup www.rustyzipper.com on 192.168.3.21:53: read udp 192.168.3.160:33784->192.168.3.10:5353: i/o timeout
+lookup www.cardmanager.com on 192.168.3.21:53: no such host
+lookup www.docurate.com on 192.168.3.21:53: no such host
+lookup www.carhartt-email.com on 192.168.3.21:53: no such host
+lookup www.banvenez.com on 192.168.3.21:53: no such host
+lookup www.daddycum.pw on 192.168.3.21:53: no such host
+lookup www.meetmemail.com on 192.168.3.21:53: no such host
+lookup www.clktraker.com on 192.168.3.21:53: no such host
+lookup www.gatewayonelending.com on 192.168.3.21:53: no such host
+lookup www.mrooms3.net on 192.168.3.21:53: no such host
+lookup www.sonymusicfans.com on 192.168.3.21:53: no such host
+lookup www.g.com on 192.168.3.21:53: no such host
+lookup www.little-schoolgirl.pw on 192.168.3.21:53: no such host
+lookup www.itamaraty.gov.br on 192.168.3.21:53: server misbehaving
+lookup www.billing-nationwide.com on 192.168.3.21:53: no such host
+lookup www.gmftrk.com on 192.168.3.21:53: no such host
+lookup www.homedepotemail.com on 192.168.3.21:53: no such host
+lookup www.rdcpix.com on 192.168.3.21:53: no such host
+lookup www.yourhealth-wellnessteam.com on 192.168.3.21:53: no such host
+lookup www.vcgov.org on 192.168.3.21:53: no such host
+lookup www.creamvids.info on 192.168.3.21:53: no such host
+lookup www.abcnews.com.co on 192.168.3.21:53: server misbehaving
+lookup www.theagencyone.com on 192.168.3.21:53: no such host
+lookup www.eventkeeper.com on 192.168.3.21:53: read udp 192.168.3.160:59724->192.168.3.10:5353: i/o timeout
+lookup www.ohgo.com on 192.168.3.21:53: read udp 192.168.3.160:45861->192.168.3.10:5353: i/o timeout
+lookup www.isrefer.com on 192.168.3.21:53: no such host
+lookup www.coupahost.com on 192.168.3.21:53: no such host
+lookup www.fcacustomer.com on 192.168.3.21:53: no such host
+lookup www.tplinkra.com on 192.168.3.21:53: no such host
+lookup www.workpop.com on 192.168.3.21:53: no such host
+lookup www.mriresidentconnect.com on 192.168.3.21:53: no such host
+lookup www.popsugar-assets.com on 192.168.3.21:53: no such host
+lookup www.sodexousa.jobs on 192.168.3.21:53: no such host
+lookup www.owschools.com on 192.168.3.21:53: no such host
+lookup www.wickedgoodkitchen.com on 192.168.3.21:53: read udp 192.168.3.160:44900->192.168.3.10:5353: i/o timeout
+lookup www.vanguardplan.com on 192.168.3.21:53: no such host
+lookup www.viaprio.com on 192.168.3.21:53: no such host
+lookup www.aapsso.com on 192.168.3.21:53: no such host
+lookup www.metapix.net on 192.168.3.21:53: no such host
+lookup www.impress-net.com on 192.168.3.21:53: no such host
+lookup www.kinogo.by on 192.168.3.21:53: no such host
+lookup www.youtube-mp3.org on 192.168.3.21:53: no such host
+lookup www.inforcloudsuite.com on 192.168.3.21:53: no such host
+lookup www.google.om on 192.168.3.21:53: server misbehaving
+lookup www.uhc-info.com on 192.168.3.21:53: no such host
+lookup www.cltrkr.com on 192.168.3.21:53: no such host
+lookup www.takl.com on 192.168.3.21:53: no such host
+lookup www.kids.net.au on 192.168.3.21:53: server misbehaving
+lookup www.email-nationwide.com on 192.168.3.21:53: no such host
+lookup www.howmanyofme.com on 192.168.3.21:53: read udp 192.168.3.160:54114->192.168.3.10:5353: i/o timeout
+lookup www.recruiter.com on 192.168.3.21:53: read udp 192.168.3.160:60507->192.168.3.10:5353: i/o timeout
+lookup www.s-nbcnews.com on 192.168.3.21:53: no such host
+lookup www.owners.com on 192.168.3.21:53: no such host
+lookup www.56txs4.com on 192.168.3.21:53: no such host
+lookup www.atomicheritage.org on 192.168.3.21:53: read udp 192.168.3.160:53844->192.168.3.10:5353: i/o timeout
+lookup www.tapatalk-cdn.com on 192.168.3.21:53: no such host
+lookup www.umasscs.net on 192.168.3.21:53: no such host
+lookup www.livelink.io on 192.168.3.21:53: no such host
+lookup www.gmail.om on 192.168.3.21:53: no such host
+lookup www.rackroom-email.com on 192.168.3.21:53: no such host
+lookup www.zanderidtheft.com on 192.168.3.21:53: no such host
+lookup www.wehoville.com on 192.168.3.21:53: server misbehaving
+lookup www.filestackcontent.com on 192.168.3.21:53: no such host
+lookup www.ucollaborate.net on 192.168.3.21:53: no such host
+lookup www.capitalonecards.com on 192.168.3.21:53: no such host
+lookup www.campintouch.com on 192.168.3.21:53: no such host
+lookup www.telematics.net on 192.168.3.21:53: no such host
+lookup www.reblop.com on 192.168.3.21:53: no such host
+lookup www.theamericanredcross.org on 192.168.3.21:53: no such host
+lookup www.hol.es on 192.168.3.21:53: no such host
+lookup www.myallypage.com on 192.168.3.21:53: no such host
+lookup www.rdtcdn.com on 192.168.3.21:53: no such host
+lookup www.talxtci.com on 192.168.3.21:53: no such host
+lookup www.ftcdn.net on 192.168.3.21:53: no such host
+lookup www.muscache.com on 192.168.3.21:53: no such host
+lookup www.careerbuilder1.eu on 192.168.3.21:53: no such host
+lookup www.quibblo.com on 192.168.3.21:53: server misbehaving
+lookup www.panorama.com.ve on 192.168.3.21:53: no such host
+lookup www.nodak.edu on 192.168.3.21:53: no such host
+lookup www.smartben.com on 192.168.3.21:53: no such host
+lookup www.suagm.edu on 192.168.3.21:53: no such host
+lookup www.libgen.io on 192.168.3.21:53: no such host
+lookup www.prizegrabtrack.com on 192.168.3.21:53: no such host
+lookup www.nothingbundtcakes-email.com on 192.168.3.21:53: no such host
+lookup www.savannahga.gov on 192.168.3.21:53: read udp 192.168.3.160:58270->192.168.3.10:5353: i/o timeout
+lookup www.pubmed.com on 192.168.3.21:53: no such host
+lookup www.bankdataprocessing.com on 192.168.3.21:53: no such host
+lookup www.teens-sins.net on 192.168.3.21:53: read udp 192.168.3.160:36581->192.168.3.10:5353: i/o timeout
+lookup www.movietavern.com on 192.168.3.21:53: no such host
+lookup www.swagbucksemail.com on 192.168.3.21:53: no such host
+lookup www.cdn-apple.com on 192.168.3.21:53: no such host
+lookup www.zalukaj.com on 192.168.3.21:53: no such host
+lookup www.55mulberry.com on 192.168.3.21:53: no such host
+lookup www.mobage.jp on 192.168.3.21:53: no such host
+lookup www.ds.tl on 192.168.3.21:53: no such host
+lookup www.axa-equitable.com on 192.168.3.21:53: read udp 192.168.3.160:52740->192.168.3.10:5353: i/o timeout
+lookup www.bwanet.ca on 192.168.3.21:53: no such host
+lookup www.mtanyct.info on 192.168.3.21:53: no such host
+lookup www.bcbgeneration.com on 192.168.3.21:53: server misbehaving
+lookup www.dolgen.net on 192.168.3.21:53: no such host
+lookup www.snidigital.com on 192.168.3.21:53: no such host
+lookup www.imimg.com on 192.168.3.21:53: no such host
+lookup www.samsungpowerbot.com on 192.168.3.21:53: no such host
+lookup www.fltmaps.com on 192.168.3.21:53: no such host
+lookup www.microsoftemail.com on 192.168.3.21:53: no such host
+lookup www.gpsrv.com on 192.168.3.21:53: no such host
+lookup www.listelixr.net on 192.168.3.21:53: no such host
+lookup www.vfoutletvip.com on 192.168.3.21:53: no such host
+lookup www.teendoit.com on 192.168.3.21:53: no such host
+lookup www.wfhealthcarepatientpay.com on 192.168.3.21:53: no such host
+lookup www.macmillantech.com on 192.168.3.21:53: no such host
+lookup www.myenotice.com on 192.168.3.21:53: no such host
+lookup www.classlink.net on 192.168.3.21:53: no such host
+lookup www.rsys5.net on 192.168.3.21:53: no such host
+lookup www.carlead.com on 192.168.3.21:53: no such host
+lookup www.sweetgirlie.com on 192.168.3.21:53: read udp 192.168.3.160:50565->192.168.3.10:5353: i/o timeout
+lookup www.ticketm.net on 192.168.3.21:53: no such host
+lookup www.uncecs.edu on 192.168.3.21:53: no such host
+lookup www.cheggcdn.com on 192.168.3.21:53: no such host
+lookup www.questdiagnosticssurvey.com on 192.168.3.21:53: no such host
+lookup www.nlmkt.com on 192.168.3.21:53: no such host
+lookup www.dfckc.com on 192.168.3.21:53: no such host
+lookup www.americantactical.us on 192.168.3.21:53: read udp 192.168.3.160:59587->192.168.3.10:5353: i/o timeout
+lookup www.sammydress.com on 192.168.3.21:53: no such host
+lookup www.learn.com on 192.168.3.21:53: no such host
+lookup www.ltkcdn.net on 192.168.3.21:53: no such host
+lookup www.emb-japan.go.jp on 192.168.3.21:53: no such host
+lookup www.sqexeu.com on 192.168.3.21:53: no such host
+lookup www.tiltedkilt.com on 192.168.3.21:53: no such host
+lookup www.garnethill-email.com on 192.168.3.21:53: no such host
+lookup www.tvox.com on 192.168.3.21:53: no such host
+lookup www.coxtarget.com on 192.168.3.21:53: no such host
+lookup www.niftyarchives.org on 192.168.3.21:53: no such host
+lookup www.loadtracking.com on 192.168.3.21:53: no such host
+lookup www.encyclopediadramatica.se on 192.168.3.21:53: server misbehaving
+lookup www.rainierland.is on 192.168.3.21:53: no such host
+lookup www.adsvlad.info on 192.168.3.21:53: server misbehaving
+lookup www.colapl.org on 192.168.3.21:53: no such host
+lookup www.awsstatic.com on 192.168.3.21:53: no such host
+lookup www.sortedxvideos.com on 192.168.3.21:53: read udp 192.168.3.160:43721->192.168.3.10:5353: i/o timeout
+lookup www.demon.co.uk on 192.168.3.21:53: no such host
+lookup www.systemcontrolcenter.com on 192.168.3.21:53: no such host
+lookup www.bfg24.com on 192.168.3.21:53: no such host
+lookup www.dealspl.us on 192.168.3.21:53: no such host
+lookup www.healthclaimonline.com on 192.168.3.21:53: no such host
+lookup www.covantagecu.org on 192.168.3.21:53: read udp 192.168.3.160:59235->192.168.3.10:5353: i/o timeout
+lookup www.scfinanceusa.com on 192.168.3.21:53: no such host
+lookup www.cardinalfinancial.com on 192.168.3.21:53: no such host
+lookup www.gmal.com on 192.168.3.21:53: no such host
+lookup www.netsolstores.com on 192.168.3.21:53: no such host
+lookup www.btbanking.com on 192.168.3.21:53: no such host
+lookup www.zscalerone.net on 192.168.3.21:53: no such host
+lookup www.oakfurnitureland.com on 192.168.3.21:53: no such host
+lookup www.schwn.us on 192.168.3.21:53: no such host
+lookup www.mxpnl.com on 192.168.3.21:53: no such host
+lookup www.rsys2.net on 192.168.3.21:53: no such host
+lookup www.myschoolcdn.com on 192.168.3.21:53: no such host
+lookup www.hcps.net on 192.168.3.21:53: no such host
+lookup www.boardsofnursing.org on 192.168.3.21:53: no such host
+lookup www.fmovies.io on 192.168.3.21:53: no such host
+lookup www.y.com on 192.168.3.21:53: no such host
+lookup www.infopop.cc on 192.168.3.21:53: no such host
+lookup www.youtub.com on 192.168.3.21:53: no such host
+lookup www.communitymedical.org on 192.168.3.21:53: read udp 192.168.3.160:60143->192.168.3.10:5353: i/o timeout
+lookup www.moonliteco.in on 192.168.3.21:53: no such host
+lookup www.insnw.net on 192.168.3.21:53: read udp 192.168.3.160:35130->192.168.3.10:5353: i/o timeout
+lookup www.netacad.net on 192.168.3.21:53: no such host
+lookup www.thechophouse.com on 192.168.3.21:53: read udp 192.168.3.160:33675->192.168.3.10:5353: i/o timeout
+lookup www.ifcdn.com on 192.168.3.21:53: no such host
+lookup www.synology.me on 192.168.3.21:53: no such host
+lookup www.woogatrack.com on 192.168.3.21:53: no such host
+lookup www.illinoisreportcard.com on 192.168.3.21:53: read udp 192.168.3.160:47639->192.168.3.10:5353: i/o timeout
+lookup www.jtracker1.com on 192.168.3.21:53: no such host
+lookup www.careersinfood.com on 192.168.3.21:53: read udp 192.168.3.160:43057->192.168.3.10:5353: i/o timeout
+lookup www.clicksocean.com on 192.168.3.21:53: server misbehaving
+lookup www.liondisclose.com on 192.168.3.21:53: no such host
+lookup www.agsdc.net on 192.168.3.21:53: no such host
+lookup www.igodigital.com on 192.168.3.21:53: no such host
+lookup www.oksrv.com on 192.168.3.21:53: no such host
+lookup www.raleysstores.com on 192.168.3.21:53: no such host
+lookup www.buseyil.com on 192.168.3.21:53: server misbehaving
+lookup www.expatexchange.com on 192.168.3.21:53: read udp 192.168.3.160:34912->192.168.3.10:5353: i/o timeout
+lookup www.ebookee.org on 192.168.3.21:53: no such host
+lookup www.ksde.org on 192.168.3.21:53: read udp 192.168.3.160:56985->192.168.3.10:5353: i/o timeout
+lookup www.dmv.gov on 192.168.3.21:53: no such host
+lookup www.mozaws.net on 192.168.3.21:53: no such host
+lookup www.ylopo-email.com on 192.168.3.21:53: no such host
+lookup www.librarycustomer.org on 192.168.3.21:53: no such host
+lookup www.rentacenter-marketing.com on 192.168.3.21:53: no such host
+lookup www.linkrd.com on 192.168.3.21:53: no such host
+lookup www.unitedmileageplus.com on 192.168.3.21:53: no such host
+lookup www.tnspayments.com on 192.168.3.21:53: no such host
+lookup www.insops.net on 192.168.3.21:53: no such host
+lookup www.ctclink.us on 192.168.3.21:53: no such host
+lookup www.arapahoe.co.us on 192.168.3.21:53: no such host
+lookup www.spopessentials3.com on 192.168.3.21:53: no such host
+lookup www.xwemo.com on 192.168.3.21:53: no such host
+lookup www.dai.ly on 192.168.3.21:53: read udp 192.168.3.160:46034->192.168.3.10:5353: i/o timeout
+lookup www.ymca.org on 192.168.3.21:53: no such host
+lookup www.drinksemail.com on 192.168.3.21:53: no such host
+lookup www.megaupload.com on 192.168.3.21:53: server misbehaving
+lookup www.mercurygate.net on 192.168.3.21:53: no such host
+lookup www.redditmetrics.com on 192.168.3.21:53: no such host
+lookup www.safeyoutube.net on 192.168.3.21:53: server misbehaving
+lookup www.snowmancrafts.co on 192.168.3.21:53: server misbehaving
+lookup www.caribya.com on 192.168.3.21:53: server misbehaving
+lookup www.csc-fsg.com on 192.168.3.21:53: no such host
+lookup www.pchassets.com on 192.168.3.21:53: no such host
+lookup www.web2go.com on 192.168.3.21:53: no such host
+lookup www.zbuyer.com on 192.168.3.21:53: read udp 192.168.3.160:49365->192.168.3.10:5353: i/o timeout
+lookup www.zscalertwo.net on 192.168.3.21:53: no such host
+lookup www.connectnd.us on 192.168.3.21:53: no such host
+lookup www.epayonline.net on 192.168.3.21:53: no such host
+lookup www.honeymod.com on 192.168.3.21:53: no such host
+lookup www.amazin.com on 192.168.3.21:53: read udp 192.168.3.160:53644->192.168.3.10:5353: i/o timeout
+lookup www.aplogin.com on 192.168.3.21:53: no such host
+lookup www.cisecurity.org on 192.168.3.21:53: read udp 192.168.3.160:48072->192.168.3.10:5353: i/o timeout
+lookup www.lane.edu on 192.168.3.21:53: no such host
+lookup www.reliantemail.com on 192.168.3.21:53: no such host
+lookup www.ohiohouse.gov on 192.168.3.21:53: read udp 192.168.3.160:51562->192.168.3.10:5353: i/o timeout
+lookup www.totalccs.com on 192.168.3.21:53: no such host
+lookup www.walgreensview.com on 192.168.3.21:53: no such host
+lookup www.postoffice.net on 192.168.3.21:53: no such host
+lookup www.youtbe.com on 192.168.3.21:53: no such host
+lookup www.johnstonandmurphy-email.com on 192.168.3.21:53: no such host
+lookup www.amazo.com on 192.168.3.21:53: no such host
+lookup www.jailbait-videos.com on 192.168.3.21:53: no such host
+lookup www.wikiurls.com on 192.168.3.21:53: no such host
+lookup www.mmjmenu.com on 192.168.3.21:53: no such host
+lookup www.edusupportcenter.com on 192.168.3.21:53: no such host
+lookup www.ipsos-forum.com on 192.168.3.21:53: no such host
+lookup www.email-prestigeportraits.com on 192.168.3.21:53: no such host
+lookup www.njsvrs.com on 192.168.3.21:53: no such host
+lookup www.timeincuk.net on 192.168.3.21:53: no such host
+lookup www.exghost.com on 192.168.3.21:53: no such host
+lookup www.pills.center on 192.168.3.21:53: no such host
+lookup www.midmichigan.net on 192.168.3.21:53: no such host
+lookup www.woodlandsonline.com on 192.168.3.21:53: read udp 192.168.3.160:45420->192.168.3.10:5353: i/o timeout
+lookup www.peeperz.com on 192.168.3.21:53: no such host
+lookup www.cclfunhub.com on 192.168.3.21:53: no such host
+lookup www.marinerfinance-email.com on 192.168.3.21:53: no such host
+lookup www.securebanksolutions.com on 192.168.3.21:53: no such host
+lookup www.pe.hu on 192.168.3.21:53: read udp 192.168.3.160:37476->192.168.3.10:5353: i/o timeout
+lookup www.redbricklabs.com on 192.168.3.21:53: no such host
+lookup www.ios-offers.com on 192.168.3.21:53: no such host
+lookup www.solixcs.com on 192.168.3.21:53: no such host
+lookup www.yutorah.org on 192.168.3.21:53: read udp 192.168.3.160:51399->192.168.3.10:5353: i/o timeout
+lookup www.wikispaces.com on 192.168.3.21:53: no such host
+lookup www.pennsylvanialotteryemail.com on 192.168.3.21:53: no such host
+lookup www.com.us on 192.168.3.21:53: no such host
+lookup www.email-prudential.com on 192.168.3.21:53: no such host
+lookup www.mypayquicker.com on 192.168.3.21:53: no such host
+lookup www.sethb-insureme.com on 192.168.3.21:53: no such host
+lookup www.fccaccessonline.com on 192.168.3.21:53: no such host
+lookup www.nwbcorp.com on 192.168.3.21:53: no such host
+lookup www.frontgate-email.com on 192.168.3.21:53: no such host
+lookup www.rxhealthinfo.com on 192.168.3.21:53: no such host
+lookup www.webdamdb.com on 192.168.3.21:53: no such host
+lookup www.activeparent.net on 192.168.3.21:53: no such host
+lookup www.empowerwfm.com on 192.168.3.21:53: no such host
+lookup www.mytelecomsurvey.com on 192.168.3.21:53: no such host
+lookup www.lifelinescreeningmail.com on 192.168.3.21:53: no such host
+lookup www.usaeasycash.com on 192.168.3.21:53: server misbehaving
+lookup www.grandinroad-email.com on 192.168.3.21:53: no such host
+lookup www.legacytexasbankonline.com on 192.168.3.21:53: server misbehaving
+lookup www.channel.or.jp on 192.168.3.21:53: no such host
+lookup www.data2gold.com on 192.168.3.21:53: read udp 192.168.3.160:58368->192.168.3.10:5353: i/o timeout
+lookup www.connect.realtor on 192.168.3.21:53: no such host
+lookup www.epipingrock.com on 192.168.3.21:53: no such host
+lookup www.fl.edu on 192.168.3.21:53: no such host
+lookup www.d.va on 192.168.3.21:53: no such host
+lookup www.cue-connect.com on 192.168.3.21:53: no such host
+lookup www.usaa360.com on 192.168.3.21:53: no such host
+lookup www.mmogames.xyz on 192.168.3.21:53: no such host
+lookup www.a.com on 192.168.3.21:53: no such host
+lookup www.caped.com on 192.168.3.21:53: server misbehaving
+lookup www.dcollege.net on 192.168.3.21:53: no such host
+lookup www.oigel.com on 192.168.3.21:53: no such host
+lookup www.cityhallsystems.com on 192.168.3.21:53: no such host
+lookup www.walmart.co on 192.168.3.21:53: no such host
+lookup www.aep-email.com on 192.168.3.21:53: no such host
+lookup www.cfrprd.com on 192.168.3.21:53: server misbehaving
+lookup www.nationalprolifealliance.com on 192.168.3.21:53: read udp 192.168.3.160:35808->192.168.3.10:5353: i/o timeout
+lookup www.nikonsso.com on 192.168.3.21:53: no such host
+lookup www.sips-atos.com on 192.168.3.21:53: no such host
+lookup www.apps.mil on 192.168.3.21:53: no such host
+lookup www.farsnews.com on 192.168.3.21:53: no such host
+lookup www.chs-mi.com on 192.168.3.21:53: no such host
+lookup www.treato.com on 192.168.3.21:53: server misbehaving
+lookup www.youtubemp3free.org on 192.168.3.21:53: server misbehaving
+lookup www.bamcontent.com on 192.168.3.21:53: no such host
+lookup www.farmville.com on 192.168.3.21:53: no such host
+lookup www.steamusercontent.com on 192.168.3.21:53: no such host
+lookup www.washington.ar.us on 192.168.3.21:53: no such host
+lookup www.youtube.om on 192.168.3.21:53: no such host
+lookup www.getnetworth.com on 192.168.3.21:53: server misbehaving
+lookup www.puppetstringnews.com on 192.168.3.21:53: no such host
+lookup www.gse.io on 192.168.3.21:53: no such host
+lookup www.politicoemail.com on 192.168.3.21:53: no such host
+lookup www.shopbonton.com on 192.168.3.21:53: no such host
+lookup www.campusconcourse.com on 192.168.3.21:53: no such host
+lookup www.andersoncountysc.org on 192.168.3.21:53: read udp 192.168.3.160:42116->192.168.3.10:5353: i/o timeout
+lookup www.daumcdn.net on 192.168.3.21:53: no such host
+lookup www.myappro.com on 192.168.3.21:53: no such host
+lookup www.thevideobee.to on 192.168.3.21:53: no such host
+lookup www.wantaddigest.com on 192.168.3.21:53: read udp 192.168.3.160:43135->192.168.3.10:5353: i/o timeout
+lookup www.plixid.com on 192.168.3.21:53: no such host
+lookup www.chopstick.com on 192.168.3.21:53: no such host
+lookup www.agcareers.com on 192.168.3.21:53: read udp 192.168.3.160:59281->192.168.3.10:5353: i/o timeout
+lookup www.szn.cz on 192.168.3.21:53: no such host
+lookup www.eppointmentsplus.com on 192.168.3.21:53: no such host
