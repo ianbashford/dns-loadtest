@@ -1,0 +1,140 @@
+================ 150 / sec ======================
+DNSCRYPT - dnsperf -s 192.168.3.10 -p 5353 -d clean_test_data_dnsperf.txt -l 600 -c 32 -Q 75
+Statistics:
+
+  Queries sent:         45000
+  Queries completed:    44667 (99.26%)
+  Queries lost:         333 (0.74%)
+
+  Response codes:       NOERROR 44650 (99.96%), SERVFAIL 9 (0.02%), NXDOMAIN 8 (0.02%)
+  Average packet size:  request 32, response 71
+  Run time (s):         602.841126
+  Queries per second:   74.094149
+
+  Average Latency (s):  0.075416 (min 0.008439, max 4.996371)
+  Latency StdDev (s):   0.202348
+
+DOH - DIRECT dnsperf -s 192.168.3.10 -p 5300 -d clean_test_data_dnsperf.txt -l 600 -c 32 -Q 75
+Statistics:
+
+  Queries sent:         45000
+  Queries completed:    44959 (99.91%)
+  Queries lost:         41 (0.09%)
+
+  Response codes:       NOERROR 44941 (99.96%), SERVFAIL 9 (0.02%), NXDOMAIN 9 (0.02%)
+  Average packet size:  request 32, response 71
+  Run time (s):         600.484041
+  Queries per second:   74.871265
+
+  Average Latency (s):  0.018971 (min 0.006539, max 4.710782)
+  Latency StdDev (s):   0.140575
+================================
+
+DOH - DIRECT - dnsperf -s 192.168.3.10 -p 5300 -d clean_test_data_dnsperf.txt -l 600 -c 32 -Q 75
+Statistics:
+
+  Queries sent:         45000
+  Queries completed:    44897 (99.77%)
+  Queries lost:         103 (0.23%)
+
+  Response codes:       NOERROR 44879 (99.96%), SERVFAIL 9 (0.02%), NXDOMAIN 9 (0.02%)
+  Average packet size:  request 32, response 71
+  Run time (s):         601.334239
+  Queries per second:   74.662304
+
+  Average Latency (s):  0.095239 (min 0.008340, max 4.954165)
+  Latency StdDev (s):   0.252732
+
+DNSCRYPT - dnsperf -s 192.168.3.10 -p 5353 -d clean_test_data_dnsperf.txt -l 600 -c 32 -Q 75
+Statistics:
+
+  Queries sent:         45000
+  Queries completed:    44897 (99.77%)
+  Queries lost:         103 (0.23%)
+
+  Response codes:       NOERROR 44879 (99.96%), SERVFAIL 9 (0.02%), NXDOMAIN 9 (0.02%)
+  Average packet size:  request 32, response 71
+  Run time (s):         601.334239
+  Queries per second:   74.662304
+
+  Average Latency (s):  0.095239 (min 0.008340, max 4.954165)
+  Latency StdDev (s):   0.252732
+
+=================== 300 / sec ==================
+DNSCRYPT - dnsperf -s 192.168.3.10 -p 5353 -d clean_test_data_dnsperf.txt -t 6 -l 600 -c 75 -Q 150
+Statistics:
+
+  Queries sent:         90000
+  Queries completed:    89760 (99.73%)
+  Queries lost:         240 (0.27%)
+
+  Response codes:       NOERROR 89713 (99.95%), SERVFAIL 31 (0.03%), NXDOMAIN 16 (0.02%)
+  Average packet size:  request 32, response 70
+  Run time (s):         604.561319
+  Queries per second:   148.471292
+
+  Average Latency (s):  0.040638 (min 0.006704, max 5.691163)
+  Latency StdDev (s):   0.391824
+
+DOH - DIRECT - dnsperf -s 192.168.3.10 -p 5300 -d clean_test_data_dnsperf.txt -t 6 -l 600 -c 75 -Q 150
+Statistics:
+
+  Queries sent:         90000
+  Queries completed:    89945 (99.94%)
+  Queries lost:         55 (0.06%)
+
+  Response codes:       NOERROR 89898 (99.95%), SERVFAIL 31 (0.03%), NXDOMAIN 16 (0.02%)
+  Average packet size:  request 32, response 70
+  Run time (s):         601.755391
+  Queries per second:   149.471033
+
+  Average Latency (s):  0.039084 (min 0.006687, max 4.965498)
+  Latency StdDev (s):   0.142695
+
+===================================================== 300 / sec and via ENCRYPTED DNS ==========================
+DOH - VIA ENCRYPTEDDNS - dnsperf -s 192.168.3.10 -p 5300 -d clean_test_data_dnsperf.txt -t 7 -l 600 -c 75 -Q 150
+Statistics:
+
+  Queries sent:         90000
+  Queries completed:    89668 (99.63%)
+  Queries lost:         332 (0.37%)
+
+  Response codes:       NOERROR 89614 (99.94%), SERVFAIL 38 (0.04%), NXDOMAIN 16 (0.02%)
+  Average packet size:  request 32, response 70
+  Run time (s):         600.005069
+  Queries per second:   149.445404
+
+  Average Latency (s):  0.010729 (min 0.006370, max 1.602299)
+  Latency StdDev (s):   0.011367
+
+DNSCRYPT - dnsperf -s 192.168.3.10 -p 5353 -d clean_test_data_dnsperf.txt -t 7 -l 600 -c 75 -Q 150
+Statistics:
+
+  Queries sent:         90000
+  Queries completed:    89800 (99.78%)
+  Queries lost:         200 (0.22%)
+
+  Response codes:       NOERROR 89746 (99.94%), SERVFAIL 38 (0.04%), NXDOMAIN 16 (0.02%)
+  Average packet size:  request 32, response 70
+  Run time (s):         600.562335
+  Queries per second:   149.526527
+
+  Average Latency (s):  0.037895 (min 0.006747, max 5.045522)
+  Latency StdDev (s):   0.381826
+
+===================================================== 300 / sec only DNSCRYPT ==========================
+DNSCRYPT ONLY - dnsperf -s 192.168.3.10 -p 5353 -d clean_test_data_dnsperf.txt -t 7 -l 600 -c 75 -Q 300
+Statistics:
+
+  Queries sent:         180000
+  Queries completed:    179472 (99.71%)
+  Queries lost:         528 (0.29%)
+
+  Response codes:       NOERROR 179337 (99.92%), SERVFAIL 101 (0.06%), NXDOMAIN 34 (0.02%)
+  Average packet size:  request 33, response 69
+  Run time (s):         604.753163
+  Queries per second:   296.769014
+
+  Average Latency (s):  0.083990 (min 0.006694, max 6.934457)
+  Latency StdDev (s):   0.432068
+
